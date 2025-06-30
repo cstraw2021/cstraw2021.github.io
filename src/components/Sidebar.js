@@ -28,7 +28,7 @@ export function Sidebar() {
 
   return (
     <div className="Sidebar">
-      <h1 className='Name'>Chris Straw</h1>
+      <h1 className='Name'>Christopher Straw</h1>
       <TypeAnimation
         sequence={[
           'Experience with Javascript',
